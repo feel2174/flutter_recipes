@@ -1,6 +1,14 @@
 # flutter_recipes
 
-A new Flutter application.
+A new Flutter application
+
+플러터로 제작한 간단한 샘플 어플리케이션입니다.
+
+
+Simple Recipes App made in Flutter — Introduction 을 참고했습니다.
+https://medium.com/@michael.krol/simple-recipes-app-made-in-flutter-introduction-c80964167a19
+
+
 
 ## Getting Started
 
